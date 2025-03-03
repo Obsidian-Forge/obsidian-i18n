@@ -1,6 +1,6 @@
 {
     "manifest": {
-        "translationVersion": 1731593378730,
+        "translationVersion": 1741024844646,
         "pluginVersion": "1.0.2"
     },
     "description": {
@@ -83,6 +83,10 @@
         ".setTitle(\"Create child node\")": ".setTitle(\"创建子节点\")",
         ".setTitle(\"Create next sibling node\")": ".setTitle(\"创建下一个兄弟节点\")",
         ".setTitle(\"Create previous sibling node\")": ".setTitle(\"创建前一个兄弟节点\")",
-        ".setTitle(\"Select tree\")": ".setTitle(\"选择树\")"
+        ".setTitle(\"Select tree\")": ".setTitle(\"选择树\")",
+        ".log(\"debounce\")": ".log(\"去除抖动\")",
+        ".log(\"No valid nodes found in the specified direction\")": ".log(\"在指定方向上找不到有效节点\")",
+        ".log(\"Obsidian-Canvas-MindMap: canvas view patched\")": ".log(\"Obsidian-Canvas-MindMap：canvas画布已修复\")",
+        ".log(\"Obsidian-Canvas-MindMap: markdown file info patched\")": ".log(\"Obsidian-Canvas-MindMap：markdown文件信息已修复\")"
     }
 }
