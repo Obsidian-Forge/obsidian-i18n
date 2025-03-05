@@ -2066,5 +2066,11 @@
         "translations": {
             "2.0.0": 1741183551299
         }
+    },
+    {
+        "id": "just-share-please",
+        "translations": {
+            "0.1.5": 1741183675130
+        }
     }
 ]
