@@ -2084,5 +2084,11 @@
         "translations": {
             "0.6.1": 1741566861638
         }
+    },
+    {
+        "id": "obsidian-carry-forward",
+        "translations": {
+            "1.4.5": 1741566954381
+        }
     }
 ]
