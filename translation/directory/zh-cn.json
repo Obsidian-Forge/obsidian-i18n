@@ -2116,5 +2116,11 @@
         "translations": {
             "0.9.7": 1742044428170
         }
+    },
+    {
+        "id": "heatmap-calendar",
+        "translations": {
+            "0.7.1": 1742044462306
+        }
     }
 ]
