@@ -1,6 +1,6 @@
 {
     "manifest": {
-        "translationVersion": 1731312554302,
+        "translationVersion": 1742044447802,
         "pluginVersion": "1.1.2"
     },
     "description": {
@@ -26,6 +26,23 @@
         ".setTitle(\"Add props to selected files\")": ".setTitle(\"向所选文件添加props\")",
         ".setTitle(\"Remove props from selected files\")": ".setTitle(\"从选定的文件中删除props\")",
         ".setTitle(\"Add props to search results\")": ".setTitle(\"在搜索结果中添加props\")",
-        ".setTitle(\"Remove props from search results\")": ".setTitle(\"在搜索结果中移除props\")"
+        ".setTitle(\"Remove props from search results\")": ".setTitle(\"在搜索结果中移除props\")",
+        "Type in a property name, then value. Use the dropbox to choose what type of\\r\\n    data you wish to store.": "输入属性名称和值。使用下拉框选择您希望存储的\\r\\n    数据类型。",
+        "If you want to make a List property, use the Text data type and separate\\r\\n    each value with a": "如需创建列表属性，请使用文本数据类型并用符号分隔\\r\\n    每个值。",
+        "If you want to add Tags, use the name \"tags\".": "如需添加标签，请使用属性名 \"tags\"。",
+        "Overwrite existing properties": "覆盖已有属性",
+        "Select the properties you wish to remove from the file selection.": "从文件选择中勾选您希望移除的属性。",
+        "Please select at least one property to remove.": "请至少选择一个要移除的属性。",
+        "The following props will be added:": "以下属性将被添加：",
+        "Are you sure you wish to proceed?": "确认要继续执行吗？",
+        "will be removed": "将被移除",
+        "`The following": "`下列",
+        "\"Delete\"": "\"删除\"",
+        "Check if you entered a valid path in the Default Props File setting.": "请检查默认属性文件设置中输入的路径是否有效。",
+        "No properties to remove": "无属性可移除",
+        "Not a valid Props template.": "无效的属性模板。",
+        "Function called outside component initialization": "函数在组件初始化之外被调用",
+        "\"Default Props File\"": "\"默认属性文件\"",
+        "Select a file with properties that you want to load into the Multi Properties form by default.  Type in the full path of the desired file.(ex. Templates/PropFile 1)": "选择一个包含属性的文件，该文件将默认载入多属性表单。请输入目标文件的完整路径。(例如：Templates/PropFile 1)"
     }
 }
