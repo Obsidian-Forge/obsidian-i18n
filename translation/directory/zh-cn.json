@@ -2128,5 +2128,11 @@
         "translations": {
             "2.6.5": 1742044480850
         }
+    },
+    {
+        "id": "sliding-panes-obsidian",
+        "translations": {
+            "3.4.0": 1742044563019
+        }
     }
 ]
