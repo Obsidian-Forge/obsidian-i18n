@@ -2110,5 +2110,11 @@
         "translations": {
             "1.0.21": 1742044369698
         }
+    },
+    {
+        "id": "obsidian-icon-shortcodes",
+        "translations": {
+            "0.9.7": 1742044428170
+        }
     }
 ]
