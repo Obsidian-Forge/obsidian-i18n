@@ -1,6 +1,6 @@
 {
     "manifest": {
-        "translationVersion": 1739669912496,
+        "translationVersion": 1742564214198,
         "pluginVersion": "1.5.10"
     },
     "description": {
@@ -10,13 +10,7 @@
     "dict": {
         "Notice(\"Failed to read the daily note template\")": "Notice(\"读取日记模板失败\")",
         "Notice(\"Unable to create new file.\")": "Notice(\"无法创建新文件。\")",
-        ".log(\"[Calendar] Failed to find daily notes folder\", err)": ".log(\"[Calendar]找不到每日笔记文件夹\", err)",
-        ".log(\"[Calendar] Failed to find weekly notes folder\", err)": ".log(\"[Calendar]找不到每周笔记文件夹\", err)",
         "alog({ cta, onAccept, text, title, })": "alog({ cta, onAccept, text, title, })",
-        "alog({\n            cta: \"Create\",\n            onAccept: createFile,\n            text: `File ${filename} does not exist. Would you like to create it?`,\n            title: \"New Daily Note\",\n        })": "alog({\n            cta: \"创建\",\n            onAccept: createFile,\n            text: `文件${filename}不存在。您想创建它吗？`,\n            title: \"新的日记\",\n        })",
-        "alog({\n            cta: \"Create\",\n            onAccept: createFile,\n            text: `File ${filename} does not exist. Would you like to create it?`,\n            title: \"New Weekly Note\",\n        })": "alog({\n            cta: \"创建\",\n            onAccept: createFile,\n            text: `文件${filename}不存在。您想创建它吗？`,\n            title: \"新的周记\",\n        })",
-        ".error(`Failed to read the daily note template '${templatePath}'`, err)": ".error(`无法读取日记模板'${templatePath}'`, err)",
-        ".error(`Failed to create file: '${normalizedPath}'`, err)": ".error(`创建文件失败：\"${normalizedPath}'`, err)",
         "name: \"Open view\"": "name: \"打开视图\"",
         "name: \"Open Weekly Note\"": "name: \"打开每周笔记\"",
         "name: \"Reveal active note\"": "name: \"显示活动笔记\"",
@@ -27,7 +21,6 @@
         "text: \"Note: Weekly Note settings are moving. You are encouraged to install the 'Periodic Notes' plugin to keep the functionality in the future.\"": "text: \"注意：“每周笔记 ”设置正在移动。我们建议您安装 “Periodic Notes ”插件，以便将来保留该功能。\"",
         "text: \"Advanced Settings\"": "text: \"高级设置\"",
         "text: \"Never mind\"": "text: \"取消\"",
-        "text: `File ${filename} does not exist. Would you like to create it?`": "text: `文件${filename}不存在。您想创建它吗？`",
         ".setName(\"Words per dot\")": ".setName(\"每个点表示的字数（即统计日记的字数）\")",
         ".setName(\"Start week on:\")": ".setName(\"从周几开始：\")",
         ".setName(\"Confirm before creating new note\")": ".setName(\"在创建新笔记前确认\")",
@@ -44,6 +37,13 @@
         ".setDesc(\"Choose the file you want to use as the template for your weekly notes\")": ".setDesc(\"选择要作为每周笔记模板的文件\")",
         ".setDesc(\"New weekly notes will be placed here\")": ".setDesc(\"新的周笔记将放在这里\")",
         ".setDesc(\"Set this if you want to use a locale different from the default\")": ".setDesc(\"如果你想使用默认语言以外的语言，请设置此选项\")",
-        ".setTitle(\"Delete\")": ".setTitle(\"删除\")"
+        ".setTitle(\"Delete\")": ".setTitle(\"删除\")",
+        ".log(\"[Calendar] Failed to find daily notes folder\", err)": ".log(\"[Calendar] 找不到每日笔记文件夹\", err)",
+        ".log(\"[Calendar] Failed to find weekly notes folder\", err)": ".log(\"[Calendar] 找不到每周笔记文件夹\", err)",
+        "alog({\n            cta: \"Create\",\n            onAccept: createFile,\n            text: `File ${filename} does not exist. Would you like to create it?`,\n            title: \"New Daily Note\",\n        })": "alog({\n            cta: \"创建\",\n            onAccept: createFile,\n            text: `文件 ${filename} 不存在。您想创建它吗？`,\n            title: \"新的日记\",\n        })",
+        "alog({\n            cta: \"Create\",\n            onAccept: createFile,\n            text: `File ${filename} does not exist. Would you like to create it?`,\n            title: \"New Weekly Note\",\n        })": "alog({\n            cta: \"创建\",\n            onAccept: createFile,\n            text: `文件 ${filename} 不存在。您想创建它吗？`,\n            title: \"新的周记\",\n        })",
+        ".error(`Failed to read the daily note template '${templatePath}'`, err)": ".error(`无法读取日记模板 '${templatePath}'`, err)",
+        ".error(`Failed to create file: '${normalizedPath}'`, err)": ".error(`创建文件失败：'${normalizedPath}'`, err)",
+        "text: `File ${filename} does not exist. Would you like to create it?`": "text: `文件 ${filename} 不存在。您想创建它吗？`"
     }
 }
