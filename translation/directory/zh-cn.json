@@ -2134,5 +2134,11 @@
         "translations": {
             "3.4.0": 1742044583147
         }
+    },
+    {
+        "id": "obsidian-trim-whitespace",
+        "translations": {
+            "0.3.0": 1742564027799
+        }
     }
 ]
