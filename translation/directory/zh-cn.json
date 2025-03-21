@@ -2159,5 +2159,11 @@
         "translations": {
             "1.2.10": 1742564247294
         }
+    },
+    {
+        "id": "flashcards-obsidian",
+        "translations": {
+            "1.6.5": 1742564259926
+        }
     }
 ]
