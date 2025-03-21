@@ -2146,5 +2146,11 @@
         "translations": {
             "0.5.11": 1742564049055
         }
+    },
+    {
+        "id": "obsidian-regex-pipeline",
+        "translations": {
+            "1.4.0": 1742564063920
+        }
     }
 ]
