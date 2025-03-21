@@ -2140,5 +2140,11 @@
         "translations": {
             "0.3.0": 1742564027799
         }
+    },
+    {
+        "id": "ob-table-enhancer",
+        "translations": {
+            "0.5.11": 1742564049055
+        }
     }
 ]
