@@ -2171,5 +2171,11 @@
         "translations": {
             "1.1.0": 1742564310191
         }
+    },
+    {
+        "id": "obsidian-custom-file-extensions-plugin",
+        "translations": {
+            "1.2.1": 1742564422614
+        }
     }
 ]
