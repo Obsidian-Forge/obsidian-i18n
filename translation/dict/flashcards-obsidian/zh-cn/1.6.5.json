@@ -1,6 +1,6 @@
 {
     "manifest": {
-        "translationVersion": 1742564259926,
+        "translationVersion": 1742966662125,
         "pluginVersion": "1.6.5"
     },
     "description": {
@@ -11,7 +11,6 @@
         "Notice(\"Anki Connect permission granted\")": "Notice(\"授予Anki Connect权限\")",
         "Notice(\"AnkiConnect permission not granted\")": "Notice(\"未授予AnkiConnect权限\")",
         "Notice(\"Something went wrong, is Anki open?\")": "Notice(\"出了点问题，Anki 打开了吗？\")",
-        "Notice(\"Anki works\")": "Notice(\"Anki作品\")",
         "Notice(\"Anki is not connected\")": "Notice(\"Anki未连接\")",
         "Notice(\"The deck name must be at least 1 character long\")": "Notice(\"牌组名称必须至少为一个字符长。\")",
         "Notice(\"No default tags will be added\")": "Notice(\"不会添加默认标签\")",
@@ -87,6 +86,7 @@
         ".setPlaceholder(\"Anki tag\")": ".setPlaceholder(\"Anki tag\")",
         ".setPlaceholder(\"Card\")": ".setPlaceholder(\"卡片\")",
         ".setPlaceholder(\"::\")": ".setPlaceholder(\"::\")",
-        ".setPlaceholder(\":::\")": ".setPlaceholder(\":::\")"
+        ".setPlaceholder(\":::\")": ".setPlaceholder(\":::\")",
+        "Notice(\"Anki works\")": "Notice(\"Anki有效\")"
     }
 }
