@@ -462,5 +462,13 @@
         "translation": 165,
         "modification": 1,
         "erasure": 28
+    },
+    {
+        "login": "scut-he",
+        "name": "SCUT-He",
+        "url": "https://gitee.com/scut-he",
+        "translation": 9,
+        "modification": 0,
+        "erasure": 0
     }
 ]
