@@ -2236,5 +2236,11 @@
         "translations": {
             "2.0.0": 1743170127619
         }
+    },
+    {
+        "id": "pomodoro-timer",
+        "translations": {
+            "1.2.3": 1743170156722
+        }
     }
 ]
