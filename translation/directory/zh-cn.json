@@ -2230,5 +2230,11 @@
         "translations": {
             "0.3.3": 1743170086715
         }
+    },
+    {
+        "id": "manual-sorting",
+        "translations": {
+            "2.0.0": 1743170127619
+        }
     }
 ]
