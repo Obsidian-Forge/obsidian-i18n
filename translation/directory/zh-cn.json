@@ -2260,5 +2260,11 @@
         "translations": {
             "1.0.1": 1743665857712
         }
+    },
+    {
+        "id": "diagram-zoom-drag",
+        "translations": {
+            "5.0.1": 1743666041138
+        }
     }
 ]
