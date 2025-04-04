@@ -1,6 +1,6 @@
 {
     "manifest": {
-        "translationVersion": 1739068010473,
+        "translationVersion": 1743728319765,
         "pluginVersion": "11.6.0"
     },
     "description": {
@@ -92,12 +92,10 @@
         ".createEl(\"div\", {\n        text: \"! If enabled, it is about 2 to 5 times slower than disabled\",\n        cls: \"another-quick-switcher__settings__warning\"\n      })": ".createEl(\"div\", {\n        text: \"! 如果启用，它比禁用时慢大约2到5倍\",\n        cls: \"another-quick-switcher__settings__warning\"\n      })",
         ".createEl(\"h3\", { text: \"\\u{1F441}Appearance\" })": ".createEl(\"h3\", { text: \"\\u{1F441}外观\" })",
         ".createEl(\"h3\", { text: \"\\u2328Hot keys in dialog\" })": ".createEl(\"h3\", { text: \"\\u2328对话框中的热键\" })",
-        " createEl(\"a\", {\n          text: \"keycode.info\",\n          href: \"https://keycode.info/\"\n        })": " createEl(\"a\", {\n          text: \"keycode.info\",\n          href: \"https://keycode.info/\"\n        })",
         ".createEl(\"li\", {\n        text: \"For the space key, please set the value to 'Space'.\"\n      })": ".createEl(\"li\", {\n        text: \"对于空格键，请设置值为'Space'.\"\n      })",
         ".createEl(\"li\", {\n        text: \"'Ctrl a' means pressing the Ctrl key and the A key.\"\n      })": ".createEl(\"li\", {\n        text: \"'Ctrl a'表示按下Ctrl键和A键.\"\n      })",
         ".createEl(\"li\", {\n        text: \"Use 'Mod' instead of 'Ctrl' on Windows or 'Cmd' on macOS.\"\n      })": ".createEl(\"li\", {\n        text: \"在Windows上使用'Mod'代替'Ctrl'，在macOS上使用'Cmd'.\"\n      })",
         ".createEl(\"h3\", { text: \"\\u{1F50D} Search commands\" })": ".createEl(\"h3\", { text: \"\\u{1F50D} 搜索命令\" })",
-        " createEl(\"a\", {\n        text: \"README\",\n        href: \"https://github.com/tadashi-aikawa/obsidian-another-quick-switcher#sort-priorities\"\n      })": " createEl(\"a\", {\n        text: \"README\",\n        href: \"https://github.com/tadashi-aikawa/obsidian-another-quick-switcher#sort-priorities\"\n      })",
         ".createEl(\"h3\", { text: \"\\u{1F4D2} Header search\" })": ".createEl(\"h3\", { text: \"\\u{1F4D2} 标题搜索\" })",
         ".createEl(\"h3\", { text: \"\\u{1F50D} Backlink search\" })": ".createEl(\"h3\", { text: \"\\u{1F50D} 反向链接搜索\" })",
         ".createEl(\"h3\", { text: \"\\u{1F50D} In file search\" })": ".createEl(\"h3\", { text: \"\\u{1F50D} 文件内搜索\" })",
@@ -143,6 +141,8 @@
         "show links": "显示链接",
         "show all results": "显示所有结果",
         "navigate forward": "向前导航",
-        "navigate back": "向后导航"
+        "navigate back": "向后导航",
+        " createEl(\"a\", {\n          text: \"keycode.info\",\n          href: \"https://keycode.info/\"\n        })": " createEl(\"a\", {  text: \"键码查询\",\n  href: \"https://keycode.info/\"\n})",
+        " createEl(\"a\", {\n        text: \"README\",\n        href: \"https://github.com/tadashi-aikawa/obsidian-another-quick-switcher#sort-priorities\"\n      })": " createEl(\"a\", {  text: \"自述文件\",\n  href: \"https://github.com/tadashi-aikawa/obsidian-another-quick-switcher#sort-priorities\"\n})"
     }
 }
