@@ -2279,5 +2279,11 @@
         "translations": {
             "0.1.1": 1744038006101
         }
+    },
+    {
+        "id": "github-gitless-sync",
+        "translations": {
+            "1.0.6": 1744038064652
+        }
     }
 ]
