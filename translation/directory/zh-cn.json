@@ -2287,5 +2287,11 @@
         "translations": {
             "1.0.6": 1744038064652
         }
+    },
+    {
+        "id": "auto-file-organizer",
+        "translations": {
+            "1.0.7": 1744633351843
+        }
     }
 ]
