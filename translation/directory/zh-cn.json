@@ -2313,5 +2313,11 @@
         "translations": {
             "2.10.16": 1744633581771
         }
+    },
+    {
+        "id": "automatic-table-of-contents",
+        "translations": {
+            "1.6.1": 1744633599146
+        }
     }
 ]
