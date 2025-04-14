@@ -2307,5 +2307,11 @@
         "translations": {
             "0.8.0": 1744633457170
         }
+    },
+    {
+        "id": "better-markdown-links",
+        "translations": {
+            "2.10.16": 1744633581771
+        }
     }
 ]
