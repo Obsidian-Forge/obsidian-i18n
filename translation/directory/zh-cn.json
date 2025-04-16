@@ -2325,5 +2325,11 @@
         "translations": {
             "1.0.3": 1744810707726
         }
+    },
+    {
+        "id": "obsidian-sakana-widget",
+        "translations": {
+            "2.1.0": 1744810737108
+        }
     }
 ]
