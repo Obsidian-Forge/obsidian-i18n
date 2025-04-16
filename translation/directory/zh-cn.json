@@ -2319,5 +2319,11 @@
         "translations": {
             "1.6.1": 1744633599146
         }
+    },
+    {
+        "id": "smart-day-night-switcher",
+        "translations": {
+            "1.0.3": 1744810707726
+        }
     }
 ]
