@@ -2331,5 +2331,11 @@
         "translations": {
             "2.1.0": 1744810737108
         }
+    },
+    {
+        "id": "obsidian-scroll-offset",
+        "translations": {
+            "1.0.4": 1744810747372
+        }
     }
 ]
