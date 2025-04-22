@@ -2351,5 +2351,11 @@
         "translations": {
             "0.0.12": 1745286081283
         }
+    },
+    {
+        "id": "file-cleaner-redux",
+        "translations": {
+            "1.6.2": 1745286294930
+        }
     }
 ]
