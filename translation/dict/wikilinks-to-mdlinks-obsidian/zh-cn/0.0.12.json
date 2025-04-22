@@ -1,0 +1,15 @@
+{
+    "manifest": {
+        "translationVersion": 1745286081283,
+        "pluginVersion": "0.0.12"
+    },
+    "description": {
+        "original": "A plugin that converts wikilinks to markdown links and vice versa",
+        "translation": "A plugin that converts wikilinks to markdown links and vice versa"
+    },
+    "dict": {
+        ".log('loading wikilinks-to-mdlinks plugin...')": ".log('加载 wikilinks-to-mdlinks 插件...')",
+        ".log('unloading wikilinks-to-mdlinks plugin')": ".log('卸载 wikilinks-to-mdlinks 插件')",
+        "name: \"Toggle selected wikilink to markdown link and vice versa\"": "name: \"来回切换 wikilink 与 markdown link\""
+    }
+}
