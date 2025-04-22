@@ -1,6 +1,6 @@
 {
     "manifest": {
-        "translationVersion": 1733729753395,
+        "translationVersion": 1745285990683,
         "pluginVersion": "1.8.2"
     },
     "description": {
@@ -58,7 +58,6 @@
         ".setDesc(\"Update properties automatically.\")": ".setDesc(\"自动更新属性。\")",
         ".setDesc(\"Quick switch for values you know the value of.\")": ".setDesc(\"快速切换已知值。\")",
         ".setDesc(\"Hide these properties from the menu.\")": ".setDesc(\"从菜单中隐藏这些属性。\")",
-        ".setDesc(\"Update properties in links in kanban boards automatically when a card is moved to a new lane.\")": ".setDesc(\"当卡片移动到新泳道时，自动更新看板链接中的属性。\")",
         ".setDesc(\"Toggle UI elements: the 'Edit Meta' right-click menu option.\")": ".setDesc(\"切换 UI 元素：'编辑元数据' 右键菜单选项。\")",
         ".setTooltip(\"Toggle Progress Properties\")": ".setTooltip(\"切换进度属性\")",
         ".setTooltip(\"Toggle Auto Properties\")": ".setTooltip(\"切换自动属性\")",
@@ -67,6 +66,7 @@
         ".setTooltip(\"Toggle Kanban Helper\")": ".setTooltip(\"切换看板助手\")",
         ".setTooltip(\"Toggle UI elements\")": ".setTooltip(\"切换 UI 元素\")",
         ".setTitle(\"Edit Meta\")": ".setTitle(\"编辑元数据\")",
-        ".setTitle(\"Add YAML property to all files in this folder (and subfolders)\")": ".setTitle(\"将 YAML 属性添加到此文件夹（及子文件夹）中的所有文件\")"
+        ".setTitle(\"Add YAML property to all files in this folder (and subfolders)\")": ".setTitle(\"将 YAML 属性添加到此文件夹（及子文件夹）中的所有文件\")",
+        ".setDesc(\"Update properties in links in kanban boards automatically when a card is moved to a new lane.\")": ".setDesc(\"当卡片移动到新的流程图中时，自动更新看板链接中的属性。\")"
     }
 }
