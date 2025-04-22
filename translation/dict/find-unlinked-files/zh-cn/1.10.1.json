@@ -1,36 +1,23 @@
 {
     "manifest": {
-        "translationVersion": 1732891796143,
+        "translationVersion": 1745286352467,
         "pluginVersion": "1.10.1"
     },
     "description": {
         "original": "Find files that are not linked anywhere and would otherwise be lost in your vault. In other words: files with no backlinks.",
-        "translation": "Find files that are not linked anywhere and would otherwise be lost in your vault. In other words: files with no backlinks."
+        "translation": "查找没有链接到任何地方的文件，否则这些文件就会丢失在你的文件库中。换句话说：没有反向链接的文件。"
     },
     "dict": {
-        "Notice(\"No broken links found\")": "Notice(\"No broken links found\")",
         "Notice(\n        `Found ${notLinkedFiles.length} orphaned files in ${diff}ms`\n      )": "Notice(\n        `Found ${notLinkedFiles.length} orphaned files in ${diff}ms`\n      )",
-        "Notice(\n        \"Can't find file - Please run the `Find orphaned files' command before\"\n      )": "Notice(\n        \"Can't find file - Please run the `Find orphaned files' command before\"\n      )",
-        ".log(\"loading \" + this.manifest.name + \" plugin\")": ".log(\"loading \" + this.manifest.name + \" plugin\")",
-        ".log(\"unloading \" + this.manifest.name + \" plugin\")": ".log(\"unloading \" + this.manifest.name + \" plugin\")",
-        "name: \"Create files of broken links\"": "name: \"Create files of broken links\"",
-        "text: \"Cancel\"": "text: \"Cancel\"",
-        "text: \"Confirm\"": "text: \"Confirm\"",
-        ".setText(\n      \"Move \" + this.filesToDelete.length + \" files to system trash?\"\n    )": ".setText(\n      \"Move \" + this.filesToDelete.length + \" files to system trash?\"\n    )",
         ".setName(\"Directories\")": ".setName(\"Directories\")",
         ".setName(\"File types\")": ".setName(\"File types\")",
         ".setName(\"Exclude filetypes\")": ".setName(\"Exclude filetypes\")",
         ".setName(\"Exclude directories\")": ".setName(\"Exclude directories\")",
-        ".setName(\"Donate\")": ".setName(\"Donate\")",
-        ".setDesc(\"Effect depends on toggle above\")": ".setDesc(\"Effect depends on toggle above\")",
-        ".setDesc(\n      \"Exclude files, which contain the given tag. Add each tag separated by comma (without `#`)\"\n    )": ".setDesc(\n      \"Exclude files, which contain the given tag. Add each tag separated by comma (without `#`)\"\n    )",
-        ".setDesc(\n      \"Exclude links in files, which contain the given tag. Add each tag separated by comma (without `#`)\"\n    )": ".setDesc(\n      \"Exclude links in files, which contain the given tag. Add each tag separated by comma (without `#`)\"\n    )",
         ".setPlaceholder(\"Directory/Subdirectory\")": ".setPlaceholder(\"Directory/Subdirectory\")",
         ".setPlaceholder(\"Directory/file.md\")": ".setPlaceholder(\"Directory/file.md\")",
         ".setPlaceholder(\"docx,txt\")": ".setPlaceholder(\"docx,txt\")",
         ".setPlaceholder(\"todo,unfinished\")": ".setPlaceholder(\"todo,unfinished\")",
         ".setPlaceholder(\"jpg,png\")": ".setPlaceholder(\"jpg,png\")",
-        "Notice(\n        \"Can't find file - Please run the `Find broken files' command before\"\n      )": "Notice(\n        \"Can't find file - Please run the `Find broken files' command before\"\n      )",
         "name: \"Find orphaned files\"": "name: \"查找孤立文件\"",
         "name: \"Find broken links\"": "name: \"查找断开的链接\"",
         "name: \"Delete orphaned files with certain extension. See README\"": "name: \"删除具有特定扩展名的孤立文件。请参阅README\"",
@@ -63,6 +50,19 @@
         ".setDesc(\n      \"Exclude the specific files. Add each file path in a new line (with file extension!)\"\n    )": ".setDesc(\n      \"排除特定文件。在新行中添加每个文件路径（带文件扩展名！）\"\n    )",
         ".setDesc(\n      \"Exclude files in the specified directories. Add each directory path in a new line\"\n    )": ".setDesc(\n      \"排除指定目录中的文件。在新行中添加每个目录路径\"\n    )",
         ".setDesc(\n      \"If you like this Plugin, consider donating to support continued development.\"\n    )": ".setDesc(\n      \"如果你喜欢这个插件，可以考虑捐款支持持续开发。\"\n    )",
-        ".setTitle(\"Find orphaned files\")": ".setTitle(\"查找孤立文件\")"
+        ".setTitle(\"Find orphaned files\")": ".setTitle(\"查找孤立文件\")",
+        "Notice(\"No broken links found\")": "Notice(\"未发现断开链接\")",
+        "Notice(\n        \"Can't find file - Please run the `Find orphaned files' command before\"\n      )": "Notice(\n        \"找不到文件 - 请先运行 “查找孤立文件 ”命令\"\n      )",
+        ".log(\"loading \" + this.manifest.name + \" plugin\")": ".log(\"载入\" + this.manifest.name + \" 插件\")",
+        ".log(\"unloading \" + this.manifest.name + \" plugin\")": ".log(\"卸载\" + this.manifest.name + \" 插件\")",
+        "name: \"Create files of broken links\"": "name: \"创建断链的连接文件\"",
+        "text: \"Cancel\"": "text: \"取消\"",
+        "text: \"Confirm\"": "text: \"确认\"",
+        ".setText(\n      \"Move \" + this.filesToDelete.length + \" files to system trash?\"\n    )": ".setText(\n      \"移动\" + this.filesToDelete.length + \" 文件到回收站?\"\n    )",
+        ".setName(\"Donate\")": ".setName(\"捐献\")",
+        ".setDesc(\"Effect depends on toggle above\")": ".setDesc(\"效果取决于上面的切换开关\")",
+        ".setDesc(\n      \"Exclude files, which contain the given tag. Add each tag separated by comma (without `#`)\"\n    )": ".setDesc(\n      \"排除包含给定标记的文件。添加用逗号分隔的每个标记（不含 `#`)\"\n    )",
+        ".setDesc(\n      \"Exclude links in files, which contain the given tag. Add each tag separated by comma (without `#`)\"\n    )": ".setDesc(\n      \"排除文件中包含给定标记的链接。添加用逗号分隔的每个标记（不含 `#`)\"\n    )",
+        "Notice(\n        \"Can't find file - Please run the `Find broken files' command before\"\n      )": "Notice(\n        \"找不到文件 - 请先运行 “查找损坏的文件 ”命令\"\n      )"
     }
 }
