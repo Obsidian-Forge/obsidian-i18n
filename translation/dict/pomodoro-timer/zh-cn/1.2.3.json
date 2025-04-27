@@ -1,6 +1,6 @@
 {
     "manifest": {
-        "translationVersion": 1743170156722,
+        "translationVersion": 1745794217883,
         "pluginVersion": "1.2.3"
     },
     "description": {
@@ -8,8 +8,6 @@
         "translation": "A pomodoro timer that helps manage your daily focus"
     },
     "dict": {
-        "Notice(\"Failed to read the daily note template\")": "Notice(\"Failed to read the daily note template\")",
-        "Notice(\"Unable to create new file.\")": "Notice(\"Unable to create new file.\")",
         "Notice(error.message)": "Notice(error.message)",
         "Notice(\"Invalid template\")": "Notice(\"无效模版\")",
         "Notice(fragment)": "Notice(片段)",
@@ -51,14 +49,16 @@
         ".setName(\"Log Format\")": ".setName(\"日志格式\")",
         ".setName(\n          \"Log template\"\n        )": ".setName(\"日志模版\"\n        )",
         ".setDesc(\"If you encounter high CPU usage, you can enable this option to lower the animation FPS to save CPU resources\")": ".setDesc(\"如果你遇到高CPU使用率，你就可以启用它\")",
-        ".setDesc(\n      \"Important: Enabling this feature will automatically add a block ID when activating a task, unless a block ID is already present.\"\n    )": ".setDesc(\n      \"Important: Enabling this feature will automatically add a block ID when activating a task, unless a block ID is already present.\"\n    )",
-        ".setDesc(\"The file to log pomodoro sessions to\")": ".setDesc(\"The file to log pomodoro sessions to\")",
         ".setPlaceholder(\"path/to/sound.mp3\")": ".setPlaceholder(\"path/to/sound.mp3\")",
         ".setPlaceholder(\"<% templater script goes here %>\")": ".setPlaceholder(\"<% templater script goes here %>\")",
         ".setTooltip(\"play\")": ".setTooltip(\"开始\")",
         ".setTitle(\"Open\")": ".setTitle(\"打开\")",
         ".setTitle(\"Reset\")": ".setTitle(\"重启\")",
         ".setTitle(\"Auto-start\")": ".setTitle(\"自动启动\")",
-        ".setTitle(\"Sound\")": ".setTitle(\"声音\")"
+        ".setTitle(\"Sound\")": ".setTitle(\"声音\")",
+        "Notice(\"Failed to read the daily note template\")": "Notice(\"读取daily note 模板失败\")",
+        "Notice(\"Unable to create new file.\")": "Notice(\"无法创建新文件.\")",
+        ".setDesc(\n      \"Important: Enabling this feature will automatically add a block ID when activating a task, unless a block ID is already present.\"\n    )": ".setDesc(\n      \"重要提示：启用此功能后，激活任务时会自动添加一个块ID，除非已存在一个块ID。\"\n    )",
+        ".setDesc(\"The file to log pomodoro sessions to\")": ".setDesc(\"用于记录番茄工作法会议的文件到\")"
     }
 }
