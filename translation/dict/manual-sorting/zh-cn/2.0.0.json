@@ -1,6 +1,6 @@
 {
     "manifest": {
-        "translationVersion": 1743170127619,
+        "translationVersion": 1745794332235,
         "pluginVersion": "2.0.0"
     },
     "description": {
@@ -13,6 +13,8 @@
         ".setButtonText(\"Cancel\")": ".setButtonText(\"拒绝\")",
         ".setTitle(\"Manual sorting\")": ".setTitle(\"手动排序\")",
         ".setTitle(\"\\u{1F4CC} Manual sorting\")": ".setTitle(\"\\u{1F4CC} 手动排序\")",
-        ".setTitle(\"\\u{1F5D1}\\uFE0F Reset order\")": ".setTitle(\"\\u{1F5D1}\\uFE0F 重置排序\")"
+        ".setTitle(\"\\u{1F5D1}\\uFE0F Reset order\")": ".setTitle(\"\\u{1F5D1}\\uFE0F 重置排序\")",
+        "u.setTitle(\"Reset order\")": "u.setTitle(\"重置排序\")",
+        "u.setTitle(\"Dragging\"": "u.setTitle(\"拖拽排序\""
     }
 }
