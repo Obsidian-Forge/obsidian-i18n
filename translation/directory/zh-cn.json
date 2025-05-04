@@ -2363,5 +2363,11 @@
         "translations": {
             "0.6.6": 1745794247667
         }
+    },
+    {
+        "id": "refresh-preview",
+        "translations": {
+            "2.0.16": 1746322972254
+        }
     }
 ]
