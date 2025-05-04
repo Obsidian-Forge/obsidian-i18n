@@ -2369,5 +2369,11 @@
         "translations": {
             "2.0.16": 1746322972254
         }
+    },
+    {
+        "id": "new-tab-default-page",
+        "translations": {
+            "0.11.9": 1746323014158
+        }
     }
 ]
