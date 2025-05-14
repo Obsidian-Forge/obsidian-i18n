@@ -2418,5 +2418,11 @@
         "translations": {
             "1.0.5": 1747187011943
         }
+    },
+    {
+        "id": "journal-folder",
+        "translations": {
+            "1.2.2": 1747187200294
+        }
     }
 ]
