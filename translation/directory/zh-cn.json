@@ -2406,5 +2406,11 @@
         "translations": {
             "0.3.2": 1747180840931
         }
+    },
+    {
+        "id": "remove-unused-block-ids",
+        "translations": {
+            "1.0.9": 1747180896818
+        }
     }
 ]
