@@ -1,0 +1,25 @@
+{
+    "manifest": {
+        "translationVersion": 1747636992950,
+        "pluginVersion": "0.5.2"
+    },
+    "description": {
+        "original": "Show the full path of the currently open file in the status bar",
+        "translation": "Show the full path of the currently open file in the status bar"
+    },
+    "dict": {
+        "Notice(\"Path copied to clipboard\")": "Notice(\"路径已复制到剪贴板\")",
+        "name: 'Vault Root'": "name: '文件库根'",
+        "name: 'Copy path'": "name: '复制路径'",
+        "text: 'Settings'": "text: '设置'",
+        ".setName('Show file name')": ".setName('显示文件名')",
+        ".setName('Show icons')": ".setName('显示icons')",
+        ".setName('Copy absolute path')": ".setName('复制绝对路径')",
+        ".setDesc('Include name of open file in the path')": ".setDesc('在路径中包含打开文件的名称')",
+        ".setDesc('Show folder and file icons')": ".setDesc('显示文件夹和文件图标')",
+        ".setDesc('Copy absolute path on clicking status bar')": ".setDesc('单击状态栏时复制绝对路径')",
+        ".appendText(`📁 `)": ".appendText(`📁`)",
+        ".appendText(`📄 `)": ".appendText(`📄 `)",
+        ".appendText(` » `)": ".appendText(`»`)"
+    }
+}
