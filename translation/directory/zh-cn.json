@@ -2424,5 +2424,11 @@
         "translations": {
             "1.2.2": 1747187200294
         }
+    },
+    {
+        "id": "typing-transformer-obsidian",
+        "translations": {
+            "0.4.4": 1747636094408
+        }
     }
 ]
