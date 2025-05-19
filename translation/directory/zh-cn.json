@@ -2430,5 +2430,11 @@
         "translations": {
             "0.4.4": 1747636094408
         }
+    },
+    {
+        "id": "obsidian-show-file-path",
+        "translations": {
+            "0.5.2": 1747636992950
+        }
     }
 ]
