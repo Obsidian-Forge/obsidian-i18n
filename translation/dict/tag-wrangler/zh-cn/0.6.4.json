@@ -1,20 +1,17 @@
 {
     "manifest": {
-        "translationVersion": 1742967549133,
+        "translationVersion": 1748935023805,
         "pluginVersion": "0.6.4"
     },
     "description": {
         "original": "Rename, merge, toggle, and search tags from the tag pane",
-        "translation": "Rename, merge, toggle, and search tags from the tag pane"
+        "translation": "从标签窗格中重命名、合并、切换和搜索标签"
     },
     "dict": {
         "Notice(u+\"; skipping frontmatter\")": "Notice(u+\"；跳过前置属性（frontmatter）\")",
         "Notice(\"Unchanged or empty tag: No changes made.\")": "Notice(\"未更改或空标签：未进行任何更改。\")",
-        "Notice(`Operation ${u.aborted?\"cancelled\":\"complete\"}: ${f} file(s)": "Notice(`Operation ${u.aborted?\"已取消“：”完成\"}: ${f} file(s)",
-        "Notice(`\"${t}\" is not a valid Obsidian tag name`)": "Notice(`“${t}”不是有效的Obsidian 标签名`)",
         "Notice(\"error: \"+i)": "Notice(\"错误：\"+i)",
         "name:\"all\"": "name:\"所有\"",
-        ".setTitle(`Renaming #${s} (and any sub-tags)`)": ".setTitle(`Renaming #${s} (and any sub-tags)`)",
         ".setTitle(\"WARNING: No Undo!\")": ".setTitle(\"警告：不能撤消！\")",
         ".setTitle(\"Create Tag Page\")": ".setTitle(\"创建标签页\")",
         "create-new": "新建",
@@ -36,6 +33,9 @@
         ".setTitle(`Renaming #${n} (and any sub-tags)`)": ".setTitle(`重命名 #${n} (包含子标签)`)",
         ".setContent(`Enter new name (must be a valid Obsidian tag name)": ".setContent(`输入新名称 (必须是有效的 Obsidian 标签名称)",
         ".Notice(`Operation ${f.aborted?\"cancelled\":\"complete\"}: ${p} file(s) updated`)": ".Notice(`活动 ${f.aborted?\"终止\":\"\"}: ${p} 个文件已更新`)",
-        ".onInvalidEntry(t=>new ye.Notice(`\"${t}\" is not a valid Obsidian tag name`))": ".onInvalidEntry(t=>new ye.Notice(`\"${t}\" 不是有效的 Obsidian 标签名称`))"
+        ".onInvalidEntry(t=>new ye.Notice(`\"${t}\" is not a valid Obsidian tag name`))": ".onInvalidEntry(t=>new ye.Notice(`\"${t}\" 不是有效的 Obsidian 标签名称`))",
+        "Notice(`Operation ${u.aborted?\"cancelled\":\"complete\"}: ${f} file(s)": "Notice(`操作 ${u.aborted?\"取消\":\"完成\"}: ${f} file(s)",
+        "Notice(`\"${t}\" is not a valid Obsidian tag name`)": "Notice(`\"${t}\" 不是一个有效的 Obsidian 标签名称`)",
+        ".setTitle(`Renaming #${s} (and any sub-tags)`)": ".setTitle(`重命名 #${s}（以及所有子标签）`)"
     }
 }
