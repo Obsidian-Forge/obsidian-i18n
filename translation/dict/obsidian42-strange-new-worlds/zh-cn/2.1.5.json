@@ -1,6 +1,6 @@
 {
     "manifest": {
-        "translationVersion": 1731385189249,
+        "translationVersion": 1748934805722,
         "pluginVersion": "2.1.5"
     },
     "description": {
@@ -18,20 +18,10 @@
         ".log(`unloading ${this.appName}`)": ".log(`正在卸载 ${this.appName}`)",
         "name:`${i}.md`": "name:`${i}.md`",
         "name:\"Toggle active state of SNW plugin on/off\"": "name:\"切换SNW插件的激活状态\"",
-        "name:\"applyStyles\"": "name:\"applyStyles\"",
-        "name:\"arrow\"": "name:\"arrow\"",
-        "name:\"computeStyles\"": "name:\"computeStyles\"",
-        "name:\"eventListeners\"": "name:\"eventListeners\"",
-        "name:\"flip\"": "name:\"flip\"",
-        "name:\"hide\"": "name:\"hide\"",
-        "name:\"offset\"": "name:\"offset\"",
-        "name:\"popperOffsets\"": "name:\"popperOffsets\"",
-        "name:\"preventOverflow\"": "name:\"preventOverflow\"",
         "name:\"$$tippy\"": "name:\"$$tippy\"",
         "text:\"(requires reopening documents to take effect)\"": "text:\"(需要重新打开文档才能生效)\"",
         "text:\"H\"": "text:\"H\"",
         "text:\"L\"": "text:\"L\"",
-        "text:\"reference\"": "text:\"reference\"",
         ".setName(\"Enable on startup\")": ".setName(\"启动时启用\")",
         ".setName(\"On the desktop enable SNW at startup\")": ".setName(\"桌面端启动时启用SNW\")",
         ".setName(\"On mobile devices enable SNW at startup\")": ".setName(\"移动端启动时启用SNW\")",
@@ -78,6 +68,16 @@
         ".setPlaceholder(\"Ex: Project, Summary\")": ".setPlaceholder(\"Ex: Project, Summary\")",
         ".innerText=`Used in property: ${t.reference.key}`": ".innerText=`使用在属性中: ${t.reference.key}`",
         ".innerText=` ${r} `": ".innerText=` ${r} `",
-        ".innerText=` ${r.length.toString()} `": ".innerText=` ${r.length.toString()} `"
+        ".innerText=` ${r.length.toString()} `": ".innerText=` ${r.length.toString()} `",
+        "name:\"applyStyles\"": "name:\"应用样式\"",
+        "name:\"arrow\"": "name:\"箭头\"",
+        "name:\"computeStyles\"": "name:\"计算样式\"",
+        "name:\"eventListeners\"": "name:\"事件监听器\"",
+        "name:\"flip\"": "name:\"翻转\"",
+        "name:\"hide\"": "name:\"隐藏\"",
+        "name:\"offset\"": "name:\"偏移量\"",
+        "name:\"popperOffsets\"": "name:\"弹出框偏移量\"",
+        "name:\"preventOverflow\"": "name:\"防止溢出\"",
+        "text:\"reference\"": "text:\"参考\""
     }
 }
