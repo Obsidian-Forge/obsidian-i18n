@@ -2466,5 +2466,11 @@
         "translations": {
             "1.0.8": 1750585677695
         }
+    },
+    {
+        "id": "obsidian-filename-heading-sync",
+        "translations": {
+            "1.10.0": 1750585789244
+        }
     }
 ]
