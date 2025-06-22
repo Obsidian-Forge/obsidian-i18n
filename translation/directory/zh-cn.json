@@ -2502,5 +2502,11 @@
         "translations": {
             "2.14.0": 1750586208084
         }
+    },
+    {
+        "id": "obsidian-dialogue-plugin",
+        "translations": {
+            "1.0.2": 1750586368764
+        }
     }
 ]
