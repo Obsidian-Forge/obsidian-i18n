@@ -2478,5 +2478,11 @@
         "translations": {
             "0.3.0": 1750586111076
         }
+    },
+    {
+        "id": "handwritten-notes",
+        "translations": {
+            "1.4.0": 1750586124260
+        }
     }
 ]
