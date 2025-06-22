@@ -2484,5 +2484,11 @@
         "translations": {
             "1.4.0": 1750586124260
         }
+    },
+    {
+        "id": "multi-column-markdown",
+        "translations": {
+            "0.9.1": 1750586145284
+        }
     }
 ]
