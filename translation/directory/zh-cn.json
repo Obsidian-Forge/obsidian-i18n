@@ -2508,5 +2508,11 @@
         "translations": {
             "1.0.2": 1750586398828
         }
+    },
+    {
+        "id": "obsidian-bulk-rename-plugin",
+        "translations": {
+            "0.5.2": 1750586413780
+        }
     }
 ]
