@@ -2539,5 +2539,11 @@
         "translations": {
             "0.12.1": 1750587025301
         }
+    },
+    {
+        "id": "data-files-editor",
+        "translations": {
+            "1.1.0": 1750834234297
+        }
     }
 ]
