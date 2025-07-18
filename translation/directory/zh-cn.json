@@ -2568,5 +2568,11 @@
         "translations": {
             "1.4.3": 1752835339197
         }
+    },
+    {
+        "id": "ai-image-analyzer",
+        "translations": {
+            "0.2.0": 1752835637356
+        }
     }
 ]
