@@ -2576,5 +2576,11 @@
         "translations": {
             "0.2.0": 1752835637356
         }
+    },
+    {
+        "id": "obsidian-citation-plugin",
+        "translations": {
+            "0.4.5": 1752835763564
+        }
     }
 ]
