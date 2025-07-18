@@ -2588,5 +2588,11 @@
         "translations": {
             "0.2.0": 1752835829587
         }
+    },
+    {
+        "id": "obsidian-html-plugin",
+        "translations": {
+            "1.0.12": 1752835840307
+        }
     }
 ]
