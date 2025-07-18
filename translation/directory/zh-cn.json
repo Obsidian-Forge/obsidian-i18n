@@ -2582,5 +2582,11 @@
         "translations": {
             "0.4.5": 1752835763564
         }
+    },
+    {
+        "id": "obsidian-plugin-toc",
+        "translations": {
+            "0.2.0": 1752835829587
+        }
     }
 ]
