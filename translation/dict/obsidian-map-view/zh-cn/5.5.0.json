@@ -1,6 +1,6 @@
 {
     "manifest": {
-        "translationVersion": 1752835724028,
+        "translationVersion": 1752923617381,
         "pluginVersion": "5.5.0"
     },
     "description": {
@@ -41,18 +41,16 @@
         ".log('Unknown location format:', frontMatterLocation)": ".log('未知位置格式：', frontMatterLocation)",
         ".log(`Unknown front matter location format: `, frontMatterLocation)": ".log(`未知的元数据位置格式： `, frontMatterLocation)",
         ".log(`Error converting location in file ${file.name}:`, e)": ".log(`文件 ${file.name} 中转换位置时出错：`, e)",
-        "alog(this.app, this.plugin, this.settings, 'custom', 'Find in map', null, null, markersByDistanceToCenter, true, [{ command: 'shift+enter', purpose: 'go without zoom & pan' }])": "alog(this.app, this.plugin, this.settings, '自定义', '在地图中查找', null, null, markersByDistanceToCenter, true, [{ command: 'shift+enter', purpose: '不缩放和平移' }])",
         ".log('Fetch result for URL', url, ':', urlContent)": ".log('URL 的获取结果', url, ':', urlContent)",
         ".log('Google Place search:', placeName)": ".log('Google 地点搜索：', placeName)",
         ".log('Google link: searching url', url)": ".log('Google 链接：正在搜索 URL', url)",
+        ".log('Map View: Google Places search failed: ', e.message)": ".log('地图视图：Google 地点搜索失败：', e.message)",
+        "alog(this.app, this, this.settings, 'newNote', 'New geolocation note')": "alog(this.app, this, this.settings, '新笔记', '新地理位置笔记')",
+        "alog(this.app, this, this.settings, 'addToNote', 'Add geolocation to note', editor, view.file)": "alog(this.app, this, this.settings, '添加到笔记', '将地理位置添加到笔记', editor, view.file)",
         ".log('Google link: found place name = ', placeName)": ".log('Google 链接：找到地点名称 = ', placeName)",
         "alog(app, plugin, settings, 'addToNote', 'Add geolocation to note', editor, file)": "alog(app, plugin, settings, '添加到笔记', '将地理位置添加到笔记', editor, file)",
         ".log('Map view: map refresh due to CSS change')": ".log('地图视图：由于 CSS 更改而刷新地图')",
         ".log('Map view: warning, marker ID', marker.id, 'already exists, please open an issue if you see this.')": ".log('地图视图：警告，标记 ID', marker.id, '已存在，如果看到此信息，请提交问题。')",
-        ".log('Map View: Google Places search failed: ', e.message)": ".log('地图视图：Google 地点搜索失败：', e.message)",
-        "alog(this.app, this, this.settings, 'newNote', 'New geolocation note')": "alog(this.app, this, this.settings, '新笔记', '新地理位置笔记')",
-        "alog(this.app, this, this.settings, 'addToNote', 'Add geolocation to note', editor, view.file)": "alog(this.app, this, this.settings, '添加到笔记', '将地理位置添加到笔记', editor, view.file)",
-        "alog(this.app, this, this.settings, 'custom', 'Quick Map Embed', editor)": "alog(this.app, this, this.settings, '自定义', '快速地图嵌入', editor)",
         ".error(`Failed to load Google Maps script, retrying in ${e} ms.`)": ".error(`加载 Google 地图脚本失败，将在 ${e} 毫秒后重试。`)",
         ".error(\n\t\t'Last ten effects were: ',\n\t\tdev_effect_stack.slice(-10)": ".error(\n\t\t'最后十个效果是： ',\n\t\tdev_effect_stack.slice(-10)",
         "_error('$state')": "_error('$状态')",
@@ -258,6 +256,8 @@
         ".setTitle('Open note')": ".setTitle('打开笔记')",
         ".setTitle('Mark as routing source')": ".setTitle('标记为路线来源')",
         ".setTitle('Route to point')": ".setTitle('路线到点')",
-        ".setTitle('Remove routing source')": ".setTitle('移除路线来源')"
+        ".setTitle('Remove routing source')": ".setTitle('移除路线来源')",
+        "alog(this.app, this.plugin, this.settings, 'custom', 'Find in map', null, null, markersByDistanceToCenter, true, [{ command: 'shift+enter', purpose: 'go without zoom & pan' }])": "alog(this.app, this.plugin, this.settings, 'custom', '在地图中查找', null, null, markersByDistanceToCenter, true, [{ command: 'shift+enter', purpose: '不缩放和平移' }])",
+        "alog(this.app, this, this.settings, 'custom', 'Quick Map Embed', editor)": "alog(this.app, this, this.settings, 'custom', '快速地图嵌入', editor)"
     }
 }
