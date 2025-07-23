@@ -1,6 +1,6 @@
 {
     "manifest": {
-        "translationVersion": 1752835464917,
+        "translationVersion": 1753277701819,
         "pluginVersion": "3.10.1"
     },
     "description": {
@@ -26,13 +26,6 @@
         " error('Duplicate key \"' + key + '\"')": " error('重复的键值 \"' + key + '\"')",
         " error(\"Bad object\")": " error(\"错误对象\")",
         " error(\"Syntax error\")": " error(\"语法错误\")",
-        ".error('Style attribute is missing the \"key\" property')": ".error('Style attribute is missing the \"key\" property')",
-        ".error('Style attribute is missing the \"label\" property')": ".error('Style attribute is missing the \"label\" property')",
-        ".error('Style attribute is missing the \"options\" property or it is not an array')": ".error('Style attribute is missing the \"options\" property or it is not an array')",
-        ".error(`Style attribute option (${(_a = option.value)": ".error(`Style attribute option (${(_a = option.value)",
-        ".error(`Style attribute option (${option.value})": ".error(`Style attribute option (${option.value})",
-        ".error(`Style attribute option (${option.label})": ".error(`Style attribute option (${option.label})",
-        ".error('Style attribute is missing a default option (option with a \"value\" of null)": ".error('Style attribute is missing a default option (option with a \"value\" of null)",
         ".error(\"Failed to stringify canvas data using json-stable-stringify:\", e)": ".error(\"无法使用 json-stable-stringify 序列化画布数据：\", e)",
         ".error(\"Failed to stringify canvas data using JSON.stringify:\", e2)": ".error(\"无法使用 JSON.stringify 序列化画布数据：\", e2)",
         ".error(\"Invalid JSON, repairing through Advanced Canvas:\", e)": ".error(\"无效的 JSON，正在通过高级画布修复\", e)",
@@ -339,6 +332,13 @@
         "description: \"The maximum width of a node. Set to -1 for no limit.\"": "description: \"节点的最大宽度。设置为 -1 表示无限制。\"",
         "description: \"When enabled, the square path's corners will be rounded.\"": "description: \"启用后，方形路径的边角将变为圆角。\"",
         "label: \"Maximum node width\"": "label: \"最大节点宽度\"",
-        "label: \"Square path rounded\"": "label: \"方形路径圆角\""
+        "label: \"Square path rounded\"": "label: \"方形路径圆角\"",
+        ".error('Style attribute is missing the \"key\" property')": ".error('样式属性缺少“key”属性')",
+        ".error('Style attribute is missing the \"label\" property')": ".error('样式属性缺少“label”属性')",
+        ".error('Style attribute is missing the \"options\" property or it is not an array')": ".error('式属性缺少“options”属性或其不是数组')",
+        ".error(`Style attribute option (${(_a = option.value)": ".error(`样式属性选项（${(_a = option.value)",
+        ".error(`Style attribute option (${option.value})": ".error(`样式属性选项（${option.value}）",
+        ".error(`Style attribute option (${option.label})": ".error(`样式属性选项（${option.label}）",
+        ".error('Style attribute is missing a default option (option with a \"value\" of null)": ".error('样式属性缺少默认选项（值为 null 的选项）"
     }
 }
