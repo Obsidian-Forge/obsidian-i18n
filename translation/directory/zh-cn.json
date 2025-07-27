@@ -2639,5 +2639,11 @@
         "translations": {
             "1.1.0": 1753533802867
         }
+    },
+    {
+        "id": "obsidian-hide-sidebars-when-narrow",
+        "translations": {
+            "1.1.0": 1753604441769
+        }
     }
 ]
