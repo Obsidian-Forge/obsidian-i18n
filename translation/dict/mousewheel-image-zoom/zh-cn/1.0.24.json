@@ -1,0 +1,22 @@
+{
+    "manifest": {
+        "translationVersion": 1753768179046,
+        "pluginVersion": "1.0.24"
+    },
+    "description": {
+        "original": "This plugin enables you to increase/decrease the size of an image by scrolling",
+        "translation": "This plugin enables you to increase/decrease the size of an image by scrolling"
+    },
+    "dict": {
+        ".log(\"Loaded: Mousewheel image zoom\")": ".log(\"已加载：鼠标滚轮图像缩放\")",
+        "text: 'Settings for mousewheel zoom'": "text: '鼠标滚轮缩放设置'",
+        ".setName('Trigger Key')": ".setName('触发键')",
+        ".setName('Step size')": ".setName('步长')",
+        ".setName('Resize in canvas')": ".setName('画布中的调整大小')",
+        ".setDesc('When enabled, all nodes on the Obsidian canvas can also be resized using the Modifier key')": ".setDesc('启用后，Obsidian画布上的所有节点也可以使用修改键进行调整大小。')",
+        ".setName('Initial Size')": ".setName('默认尺寸')",
+        ".setDesc('Key that needs to be pressed down for mousewheel zoom to work.')": ".setDesc('鼠标滚轮缩放需要按下的键。')",
+        ".setDesc('Step value by which the size of the image should be increased/decreased')": ".setDesc('图像大小增加/减少的步长值。')",
+        ".setDesc('Initial image size if no size was defined beforehand')": ".setDesc('如果没有定义尺寸，则为初始图像尺寸。')"
+    }
+}
