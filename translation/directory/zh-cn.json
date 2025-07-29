@@ -2646,5 +2646,11 @@
         "translations": {
             "1.1.0": 1753604441769
         }
+    },
+    {
+        "id": "simple-columns",
+        "translations": {
+            "1.0.6": 1753783246503
+        }
     }
 ]
