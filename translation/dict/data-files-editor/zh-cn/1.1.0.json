@@ -1,23 +1,20 @@
 {
     "manifest": {
-        "translationVersion": 1750834234297,
+        "translationVersion": 1754037359450,
         "pluginVersion": "1.1.0"
     },
     "description": {
         "original": "Plugin to edit data files like txt, xml, json",
-        "translation": "Plugin to edit data files like txt, xml, json"
+        "translation": "插件编辑数据文件，例如txt, xml, json"
     },
     "dict": {
-        ".log(parent == null ? void 0 : parent.path)": ".log(parent == null ? void 0 : parent.path)",
-        ".log(error.toString()": ".log(error.toString()",
-        "name: \"json\"": "name: \"json\"",
-        ".setName(\"Load .txt files\")": ".setName(\"加载 .txt 文件\")",
-        ".setName(\"Create .txt files\")": ".setName(\"创建 .txt 文件\")",
-        ".setName(\"Load .json files\")": ".setName(\"加载 .json 文件\")",
-        ".setName(\"Create .json files\")": ".setName(\"创建 .json 文件\")",
-        ".setName(\"Load .xml files\")": ".setName(\"加载 .xml 文件\")",
-        ".setName(\"Create .xml files\")": ".setName(\"创建 .xml 文件\")",
-        ".setName(\"Enable autosave for files\")": ".setName(\"打开文件自动保存功能\")",
-        ".setTitle(`Create .${fileExt} file`)": ".setTitle(`创建  .${fileExt} 文件`)"
+        ".setName(\"Load .txt files\")": ".setName(\"加载 txt 文件\")",
+        ".setName(\"Create .txt files\")": ".setName(\"创建 txt 文件\")",
+        ".setName(\"Load .json files\")": ".setName(\"加载 json 文件\")",
+        ".setName(\"Create .json files\")": ".setName(\"创建 json 文件\")",
+        ".setName(\"Load .xml files\")": ".setName(\"加载 xml 文件\")",
+        ".setName(\"Create .xml files\")": ".setName(\"创建 xml 文件\")",
+        ".setName(\"Enable autosave for files\")": ".setName(\"启用文件自动保存\")",
+        ".setTitle(`Create .${fileExt} file`)": ".setTitle(`创建 ${fileExt} 文件`)"
     }
 }
