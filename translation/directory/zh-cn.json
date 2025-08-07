@@ -2654,5 +2654,11 @@
         "translations": {
             "1.0.6": 1753802177233
         }
+    },
+    {
+        "id": "obsidian-grandfather",
+        "translations": {
+            "1.0.1": 1754552622943
+        }
     }
 ]
