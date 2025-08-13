@@ -2674,5 +2674,11 @@
         "translations": {
             "0.2.73": 1755102455035
         }
+    },
+    {
+        "id": "augmented-canvas",
+        "translations": {
+            "0.1.20": 1755102476010
+        }
     }
 ]
