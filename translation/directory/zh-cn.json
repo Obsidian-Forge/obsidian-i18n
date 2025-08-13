@@ -2705,5 +2705,11 @@
         "translations": {
             "0.2.3": 1755102588786
         }
+    },
+    {
+        "id": "pixel-perfect-image",
+        "translations": {
+            "1.0.17": 1755102634850
+        }
     }
 ]
