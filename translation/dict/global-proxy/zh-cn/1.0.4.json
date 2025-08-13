@@ -1,6 +1,6 @@
 {
     "manifest": {
-        "translationVersion": 1731497012933,
+        "translationVersion": 1755102709186,
         "pluginVersion": "1.0.4"
     },
     "description": {
@@ -15,6 +15,12 @@
         ".setDesc(\"Set up your http proxy\")": ".setDesc(\"设置你的 HTTP 代理\")",
         ".setDesc(\"Set up your https proxy\")": ".setDesc(\"设置你的 HTTPS 代理\")",
         "Notice('Enable proxy!')": "Notice('启用代理！')",
-        "Notice('Disable proxy!')": "Notice('关闭代理！')"
+        "Notice('Disable proxy!')": "Notice('关闭代理！')",
+        ".setName(\"Enable proxy\")": ".setName(\"启用代理\")",
+        ".setName(\"Socks Proxy\")": ".setName(\"Socks 代理\")",
+        ".setName(\"Http Proxy\")": ".setName(\"Http 代理\")",
+        ".setName(\"Https Proxy\")": ".setName(\"Https 代理\")",
+        ".setDesc(\"Proxy blacklist\")": ".setDesc(\"代理黑名单\")",
+        ".setDesc(\"For proxy specified plugins\")": ".setDesc(\"用于代理指定的插件\")"
     }
 }
