@@ -2686,5 +2686,11 @@
         "translations": {
             "1.6.2": 1755102501090
         }
+    },
+    {
+        "id": "obsidian-epub-plugin",
+        "translations": {
+            "1.0.3": 1755102521866
+        }
     }
 ]
