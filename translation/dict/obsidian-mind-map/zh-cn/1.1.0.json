@@ -1,6 +1,6 @@
 {
     "manifest": {
-        "translationVersion": 1757206983807,
+        "translationVersion": 1757214288074,
         "pluginVersion": "1.1.0"
     },
     "description": {
@@ -8,18 +8,6 @@
         "translation": "A plugin to preview notes as Markmap mind maps"
     },
     "dict": {
-        ".setName('Preview Split')": ".setName('Preview Split')",
-        ".setName('Node Min Height')": ".setName('Node Min Height')",
-        ".setName('Node Text Line Height')": ".setName('Node Text Line Height')",
-        ".setName('Vertical Spacing')": ".setName('Vertical Spacing')",
-        ".setName('Horizontal Spacing')": ".setName('Horizontal Spacing')",
-        ".setName('Horizontal padding')": ".setName('Horizontal padding')",
-        ".setDesc('Split direction for the Mind Map Preview')": ".setDesc('Split direction for the Mind Map Preview')",
-        ".setDesc('Minimum height for the mind map nodes')": ".setDesc('Minimum height for the mind map nodes')",
-        ".setDesc('Line height for content in mind map nodes')": ".setDesc('Line height for content in mind map nodes')",
-        ".setDesc('Vertical spacing of the mind map nodes')": ".setDesc('Vertical spacing of the mind map nodes')",
-        ".setDesc('Horizontal spacing of the mind map nodes')": ".setDesc('Horizontal spacing of the mind map nodes')",
-        ".setDesc('Leading space before the content of mind map nodes')": ".setDesc('Leading space before the content of mind map nodes')",
         "Notice('Screenshot copied to the clipboard.')": "Notice('Screenshot copied to the clipboard.')",
         ".log(arg.reverse()": ".log(arg.reverse()",
         ".log(tok, context.macros.get(name)": ".log(tok, context.macros.get(name)",
@@ -44,6 +32,18 @@
         "text: \"\\\\prime\"": "text: \"\\\\prime\"",
         "text: \"---\"": "text: \"---\"",
         "text: \"--\"": "text: \"--\"",
+        ".setName('Preview Split')": ".setName('Preview Split')",
+        ".setName('Node Min Height')": ".setName('Node Min Height')",
+        ".setName('Node Text Line Height')": ".setName('Node Text Line Height')",
+        ".setName('Vertical Spacing')": ".setName('Vertical Spacing')",
+        ".setName('Horizontal Spacing')": ".setName('Horizontal Spacing')",
+        ".setName('Horizontal padding')": ".setName('Horizontal padding')",
+        ".setDesc('Split direction for the Mind Map Preview')": ".setDesc('Split direction for the Mind Map Preview')",
+        ".setDesc('Minimum height for the mind map nodes')": ".setDesc('Minimum height for the mind map nodes')",
+        ".setDesc('Line height for content in mind map nodes')": ".setDesc('Line height for content in mind map nodes')",
+        ".setDesc('Vertical spacing of the mind map nodes')": ".setDesc('Vertical spacing of the mind map nodes')",
+        ".setDesc('Horizontal spacing of the mind map nodes')": ".setDesc('Horizontal spacing of the mind map nodes')",
+        ".setDesc('Leading space before the content of mind map nodes')": ".setDesc('Leading space before the content of mind map nodes')",
         ".setPlaceholder('Example: 16')": ".setPlaceholder('Example: 16')",
         ".setPlaceholder('Example: 1em')": ".setPlaceholder('Example: 1em')",
         ".setPlaceholder('Example: 5')": ".setPlaceholder('Example: 5')",
