@@ -2738,5 +2738,11 @@
         "translations": {
             "3.16.3": 1757207116952
         }
+    },
+    {
+        "id": "drawio-obsidian",
+        "translations": {
+            "1.5.4": 1757214278242
+        }
     }
 ]
