@@ -2745,5 +2745,11 @@
         "translations": {
             "1.5.4": 1757214278242
         }
+    },
+    {
+        "id": "ai-tagger-universe",
+        "translations": {
+            "1.0.13": 1757559380210
+        }
     }
 ]
