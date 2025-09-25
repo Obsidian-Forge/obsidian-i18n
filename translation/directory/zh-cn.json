@@ -2784,5 +2784,11 @@
         "translations": {
             "1.2.1": 1758803517611
         }
+    },
+    {
+        "id": "code-language-completer",
+        "translations": {
+            "1.0.0": 1758803527275
+        }
     }
 ]
