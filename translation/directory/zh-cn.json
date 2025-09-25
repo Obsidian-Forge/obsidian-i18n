@@ -2790,5 +2790,11 @@
         "translations": {
             "1.0.0": 1758803527275
         }
+    },
+    {
+        "id": "duplicate-detector",
+        "translations": {
+            "0.0.3": 1758803676514
+        }
     }
 ]
