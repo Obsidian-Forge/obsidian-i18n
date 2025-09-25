@@ -2829,5 +2829,11 @@
         "translations": {
             "0.4.1": 1758803964251
         }
+    },
+    {
+        "id": "obsidian-link-embed",
+        "translations": {
+            "2.9.2": 1758804024267
+        }
     }
 ]
