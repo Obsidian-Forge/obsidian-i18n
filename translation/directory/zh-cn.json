@@ -2751,5 +2751,11 @@
         "translations": {
             "1.0.13": 1757559380210
         }
+    },
+    {
+        "id": "colored-tags-wrangler",
+        "translations": {
+            "0.19.3": 1758803137515
+        }
     }
 ]
