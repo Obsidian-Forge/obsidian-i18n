@@ -2822,5 +2822,11 @@
         "translations": {
             "2.7.0": 1758803894754
         }
+    },
+    {
+        "id": "obsidian-markdown-formatting-assistant-plugin",
+        "translations": {
+            "0.4.1": 1758803964251
+        }
     }
 ]
