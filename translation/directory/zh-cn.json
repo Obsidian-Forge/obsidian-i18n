@@ -2772,5 +2772,11 @@
         "translations": {
             "4.0.3": 1758803365245
         }
+    },
+    {
+        "id": "obsidian-file-cooker",
+        "translations": {
+            "1.9.0": 1758803491042
+        }
     }
 ]
