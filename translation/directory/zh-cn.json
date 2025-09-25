@@ -2764,5 +2764,11 @@
         "translations": {
             "1.4.3": 1758803219170
         }
+    },
+    {
+        "id": "systemsculpt-ai",
+        "translations": {
+            "4.0.3": 1758803365245
+        }
     }
 ]
